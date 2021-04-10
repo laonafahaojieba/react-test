@@ -1,0 +1,21 @@
+{
+      "files.exclude": {
+        "**/.git": false,
+        "**/.svn": false,
+        "**/.hg": false,
+        "**/CVS": false,
+        "**/.editorconfig": false,
+        "**/.gitignore": false,
+        "**/.prettierignore": false,
+        "**/.prettierrc": false,
+        "**/.umirc.ts": false,
+        "**/.vscode": false,
+        "**/README.md": false,
+        "**/node_modules": false,
+        "**/tsconfig.json": false,
+        "**/typings.d.ts": false,
+        "**/package.json": false,
+        "**/yarn.lock": false,
+        "**/.umi":false
+      }
+    } 
